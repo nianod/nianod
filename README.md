@@ -5,7 +5,7 @@
 - 📫 How to reach me [email me@ arnoldkk422@gmail.com] 
 - 😄 Pronouns: Sir
 - ⚡ Fun fact:⚡ I can type faster than I can think—or at least, I try!
-- I transform ideas into code
+- 👑 I transform ideas into code
 
 <!---
 nianod/nianod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
