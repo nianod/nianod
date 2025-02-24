@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Arnold
 - 👀 I’m interested in Coding and programming
-- 🌱 I’m currently learning JS Frameworks (React and Angular)
+- 🌱 I’m currently learning JS Framework(React) and Python III
 - 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
 - 📫 How to reach me [email me@ arnoldkk422@gmail.com] 
 - 😄 Pronouns: Sir
-- ⚡ Fun fact:⚡ I can type faster than I can think—or at least, I try!
+- ⚡ Fun fact:⚡ I can type faster than I can think or at least, I try!
 - 👑 I transform ideas into code
 
 <!---
