@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnold
-- 👀 I’m interested in Coding and programming
+- 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀 
 - 🌱 I’m currently learning JS Framework(React) and Python III
 - 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
 - 📫 How to reach me [email me@ arnoldkk422@gmail.com] 
