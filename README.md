@@ -1,9 +1,18 @@
 - 👋 Hi, I’m Arnold
-- 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀 
+- 
+- 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
+- 
 - 🌱 I’m currently learning JS Framework(React) and Python III
+- 
 - 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
-- 📫 How to reach me [email me@ arnoldkk422@gmail.com] 
-- 😄 App me @https://wa.link/ft2zsu
+- 
+- 📫 How to reach me:
+- ## ⚓ Social links 🌐:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnoldkk422@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ft2zsu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arnold-wanza-b51654330)
+
+
 - ⚡ Fun fact:⚡ I can type faster than I can think or at least, I try!
 - 👑 I transform ideas into code
 
@@ -11,7 +20,10 @@
 nianod/nianod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 💻 Tech Stack:
+
+
+
+## 💻🧷 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
