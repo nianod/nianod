@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Arnold
-- 
+  
 - 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
-- 
+  
 - 🌱 I’m currently learning JS Framework(React) and Python III
-- 
+  
 - 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
-- 
+  
 - ⚡ Fun fact:⚡ I can type faster than I can think or at least, I try!
+
 - 👑 I transform ideas into code
 
 <!---
@@ -36,5 +37,6 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
