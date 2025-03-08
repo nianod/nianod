@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![Coding Hobbyist](https://img.shields.io/badge/-Coding%20Hobbyist-green?style=for-the-badge)
 
 
@@ -41,8 +42,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats:
 ![Nianod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical) 
+
+
 ## ⚡ Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nianod&theme=radical)  
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
