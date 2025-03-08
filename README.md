@@ -30,10 +30,9 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Junior Programmer](https://img.shields.io/badge/-Junior%20Programmer-blue?style=for-the-badge)
-![Business & Economics Student](https://img.shields.io/badge/-Business%20%26%20Economics-orange?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Coding Hobbyist](https://img.shields.io/badge/-Coding%20Hobbyist-green?style=for-the-badge)
+
 
 
 
