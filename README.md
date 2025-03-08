@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Arnold
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=842CF7&width=435&lines=Hello!%F0%9F%91%8B+Am+Arnold;Welcome+to+My+Profile%F0%9F%A7%B7;Can+we+Collaborate)](https://git.io/typing-svg)
+
 - 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
   
 - 🌱 I’m currently learning JS Framework(React) and Python III
