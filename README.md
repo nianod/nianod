@@ -36,9 +36,17 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=dark&hide_border=false)
+![Nianod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical)  
+
+## ⚡ Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=nianod&theme=radical)  
 
