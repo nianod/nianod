@@ -1,11 +1,4 @@
-<svg width="100%" height="10">
-  <rect width="100%" height="10" fill="cyan">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hello!+Am+Arnold.+A+Fronted+Developer;+You+can+call+me+API++Wizard+%F0%9F%98%8E;Welcome+to+my+Profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&width=435&lines=Hello!+Am+Arnold.;A+fronted+Developer;Call+me+API++Wizard+%F0%9F%98%8E;Welcome+to+my+Profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
 
 - 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
   
