@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=842CF7&width=435&lines=Hello!%F0%9F%91%8B+Am+Arnold;Welcome+to+My+Profile%F0%9F%A7%B7;Can+we+Collaborate)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=842CF7&width=435&lines=Hello!%F0%9F%91%8B+Am+Arnold;Welcome+to+My+Profile%F0%9F%A7%B7;Can+we+Collaborate)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=24&lines=Hello!+Am+Arnold.+A+Fronted+Developer;+You+can+call+me+API++Wizard+%F0%9F%98%8E;Welcome+to+my+Profile;Can+we+collaborate%3F)
 
 - 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
   
