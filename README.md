@@ -3,7 +3,7 @@
 
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <p style="text-align: center;">👑transforming ideas into code</p>
+  <p align="center"> Transforming Ideas into Code 👑</p>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
