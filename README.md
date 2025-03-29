@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&width=435&lines=Hello!+Am+Arnold.;A+fronted+Developer;Call+me+API++Wizard+%F0%9F%98%8E;Welcome+to+my+Profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+A cool wabot developer from 254✅️
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 - 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
   
 - 🌱 I’m currently learning JS Framework(React) and Python III
