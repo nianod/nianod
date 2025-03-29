@@ -3,7 +3,7 @@
 
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-                Young 254 Developer🫡
+  <p style="text-align: center;">👑transforming ideas into code</p>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -15,7 +15,6 @@
   
 - ⚡ Fun fact:⚡ I can type faster than I can think or at least, I try!
 
-- 👑 I transform ideas into code
 
 <!---
 nianod/nianod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
