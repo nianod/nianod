@@ -57,3 +57,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
