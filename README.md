@@ -37,7 +37,13 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4B8BBE?style=for-the-badge&logo=websocket&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Coding Hobbyist](https://img.shields.io/badge/-Coding%20Hobbyist-green?style=for-the-badge)
 
 
