@@ -62,12 +62,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ## ⚡ Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nianod)](https://git.io/streak-stats)
-
+![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=dark&hide_border=false)<br/>
 
 ## Most used languages🎗️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&cache_bust=1)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nianod&theme=monokai&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
