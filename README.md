@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React TS](https://img.shields.io/badge/React_TS-3178C6?style=for-the-badge&logo=react&logoColor=white)
@@ -49,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Coding Hobbyist](https://img.shields.io/badge/-Coding%20Hobbyist-green?style=for-the-badge)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad++&logoColor=black)
-
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 
@@ -65,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=dark&hide_border=false)<br/>
 
 ## Most used languages🎗️
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=dark)
  
 
 ## 🏆 GitHub Trophies
