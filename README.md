@@ -75,11 +75,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=dark&hide_border=false)<br/>
 
 ## Most used languages🎗️
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical" alt="Top Languages" />
  
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nianod&theme=monokai&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nianod&theme=radical" alt="GitHub Trophies" />
+</div>
 
 
   ## Random quote by famous people 🧠
