@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=dark&hide_border=false)<br/>
 
 ## Most used languages🎗️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical&langs_count=10)
  
 
 ## 🏆 GitHub Trophies
