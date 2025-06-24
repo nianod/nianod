@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&width=435&lines=Hello!+Am+Arnold.;A+fronted+Developer;Call+me+API++Wizard+%F0%9F%98%8E;Welcome+to+my+Profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&center=true&width=435&lines=Hello!+Am+Arnold;A+full-stack+developer;Call+me+API+Wizard%F0%9F%98%8E;Welcome+to+my+profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
 
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -7,9 +6,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-- 👀 A passionate tech enthusiast diving into web development, cybersecurity, and blockchain. 🚀
+- 👀 A passionate tech enthusiast exploring web development, cybersecurity, and blockchain Technology. 🚀
   
-- 🌱 I’m currently learning JS Framework(React)[Mastering APIs] and Python III
+- 🌱 I’m currently Mastering React and Python III
   
 - 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
   
