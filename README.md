@@ -60,6 +60,11 @@ You can click the Preview link to take a look at your changes.
 ![Coding Hobbyist](https://img.shields.io/badge/-Coding%20Hobbyist-green?style=for-the-badge)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad++&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-131313?style=for-the-badge&logo=koyeb&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
 
 
 
