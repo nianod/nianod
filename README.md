@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&weight=500&size=25&duration=4000&pause=000&background=023702F9&center=true&width=435&lines=Hello!+Am+Arnold;A+full-stack+developer;Call+me+API+Wizard%F0%9F%98%8E;Welcome+to+my+profile;Can+we+collaborate%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+Am+Arnold;A+software+Developer;API+Architect;Welcome+to+my+profile;Ready+for+collaboration)](https://git.io/typing-svg)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <p align="center"> Transforming Ideas into Code 👑</p>
