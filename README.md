@@ -62,29 +62,22 @@ You can click the Preview link to take a look at your changes.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
-
-
-
-
-
-
 ## 📊 GitHub Stats:
-![Nianod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical) 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical" />
 
 
 ## ⚡ Contribution Streak  
-![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=dark&hide_border=false)<br/>
-
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&cache_seconds=86400" />
 
 
 ## 🛠️ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&langs_count=10&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical&langs_count=10)
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nianod&theme=radical" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nianod&theme=radical&no-bg=true&no-frame=true" />
+</p>
 
 
   ## Random quote by famous people 🧠
