@@ -66,9 +66,9 @@ You can click the Preview link to take a look at your changes.
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
+## ✨Github stats
+<p><a href="https://github.com/nianod"><img src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical"></a></p>
 
-
- 
 
 ## ⚡ Contribution Streak  
 ![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=radical&hide_border=false)<br/>
