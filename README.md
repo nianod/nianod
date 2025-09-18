@@ -64,9 +64,8 @@ You can click the Preview link to take a look at your changes.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
-## 📊 GitHub Stats:
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical" />
 
+ 
 
 ## ⚡ Contribution Streak  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&cache_seconds=86400" />
@@ -75,12 +74,20 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical&langs_count=10)
 
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nianod&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
+---
+## 👀Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
+<a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+---
 
   ## Random quote by famous people 🧠
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
