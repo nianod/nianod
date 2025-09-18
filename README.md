@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
  
 
 ## ⚡ Contribution Streak  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&cache_seconds=86400" />
+![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=radical&hide_border=false)<br/>
 
 
 ## 🛠️ Most Used Languages
