@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🛠️ Most Used Languages
-![Top Languages](https://github-readme-stats-e7pwrv80h-arnolds-projects-c5f51fea.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=000&border_color=fff&title_color=fcc419&text_color=fff)](https://github.com/nianod/github-readme-stats)
 
 ---
 
