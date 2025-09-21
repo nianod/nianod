@@ -1,17 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+Am+Arnold;A+software+Developer;API+Architect;Welcome+to+my+profile;Ready+for+collaboration)](https://git.io/typing-svg)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <p align="center"> Transforming Ideas into Code 👑</p>
+  ## <p align="center"> Transforming Ideas into Code 👑</p>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+- 👀 Passionate tech enthusiast exploring Web Development, Cybersecurity, and AI Agents 🚀
 
-- 👀 A passionate tech enthusiast exploring web development, cybersecurity, and blockchain Technology. 🚀
-  
-- 🌱 I’m currently Mastering React and Python III
-  
-- 💞️ I’m looking to collaborate on Web development projects, open-source contributions, or anything that challenges my skills!
-  
-- ⚡ Fun fact:⚡ I can type faster than I can think or at least, I try!
+- 🌱 Currently diving deep into advanced React(NextJS) and AI-driven development🤖
+
+- 💞️ Open to collaborating on web projects, open-source contributions, and AI agent innovations
+
+- ⚡ Fun fact: I type so fast, my thoughts can barely keep up! ⚡
+
+- 🛠️ Advocate of clean code, problem-solving, and continuous learning
+
+- 🎯 Goal: To merge AI and Cybersecurity in creating impactful, future-ready solutions
 
 
  
@@ -54,6 +57,7 @@ You can click the Preview link to take a look at your changes.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
