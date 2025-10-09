@@ -109,11 +109,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app/?username=nianod&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
----
-## 👀Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=nianod=blue&style=flat)
-<a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nianod?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
