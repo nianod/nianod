@@ -119,6 +119,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### ☕ Support My Work
+
+If you like what I build and want to fuel my next project, Hit this buy me coffee button
+
 <p align="center">
   <a href="https://my-payment-brown.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
