@@ -1,3 +1,8 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=nianod&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+Am+Arnold;A+software+Developer;API+Architect;Welcome+to+my+profile;Ready+for+collaboration)](https://git.io/typing-svg)
 
 <p align="center">
@@ -112,6 +117,16 @@ You can click the Preview link to take a look at your changes.
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
+---
+
+<p align="center">
+  <a href="https://my-payment-brown.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## ✨Github stats
 <p><a href="https://github.com/nianod"><img src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical"></a></p>
 
@@ -139,6 +154,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ## 📈 GitHub Activity Graph💹  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
