@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🛠️ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=9&bg_color=161B22&title_color=58A6FF&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=161B22&title_color=58A6FF&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
