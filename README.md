@@ -132,14 +132,15 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 ---
 
 ## ✨Github stats
-![ninanod's GitHub stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical)
+[![ninanod's GitHub stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/nianod)
+
 
 ## ⚡ Contribution Streak  
-![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=radical&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&background=0D1117&ring=3b82f6&fire=60A5FA&stroke=1f2937&hide_border=true)
 
 
 ## 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=161B22&title_color=58A6FF&text_color=F8F8F2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=E6EEF8&icon_color=60A5FA&border_color=1f2937)
 
 ---
 
