@@ -132,15 +132,14 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 ---
 
 ## ✨Github stats
-<p><a href="https://github.com/nianod"><img src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical"></a></p>
-
+![ninanod's GitHub stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical)
 
 ## ⚡ Contribution Streak  
 ![](https://nirzak-streak-stats.vercel.app/?user=nianod&theme=radical&hide_border=false)<br/>
 
 
 ## 🛠️ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=161B22&title_color=58A6FF&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=161B22&title_color=58A6FF&text_color=F8F8F2)
 
 ---
 
