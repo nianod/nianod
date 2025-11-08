@@ -140,7 +140,7 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 
 
 ## 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut-vertical&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=E6EEF8&icon_color=60A5FA&border_color=1f2937)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="300" />
 
 ---
 
