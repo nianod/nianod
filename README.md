@@ -5,17 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+Am+Arnold;A+software+Developer;API+Architect;Welcome+to+my+profile;Ready+for+collaboration)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
   🚀 Transforming Ideas into <span style="color:#00bcd4;">Code</span> 👑
 </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
 
 
 - 👀 Passionate tech enthusiast exploring Web Development, Cybersecurity, and AI Agents 🚀
@@ -54,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 💻🧷 Tech Stack:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -140,7 +136,8 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 
 
 ## 🛠️ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600">
+
 
 ---
 
