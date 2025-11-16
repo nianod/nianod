@@ -16,7 +16,7 @@
 
 - 👀 Passionate tech enthusiast exploring Web Development, Cybersecurity, and AI Agents 🚀
 
-- 🌱 Currently diving deep into advanced React(NextJS) and AI-driven development🤖
+- 🌱 Currently diving deep into AI-driven development🤖
 
 - 💞️ Open to collaborating on web projects, open-source contributions, and AI agent innovations
 
