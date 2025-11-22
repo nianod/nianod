@@ -29,7 +29,6 @@
 ---
  
 ## <div>  Visit My <a href="https://stack-by-arnold.vercel.app/"> PORTFOLIO </a> </div>
-## <div>  Visit Our <a  href="https://we-re-arnold-official.vercel.app/"> ORGANIZATION </a> </div>
 
 ---
 
