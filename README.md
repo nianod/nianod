@@ -134,7 +134,7 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 
 
 ## 🛠️ Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&langs_count=11&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/nianod)
 
 
 ---
