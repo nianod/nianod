@@ -49,67 +49,87 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  Technologies:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React TS](https://img.shields.io/badge/React_TS-3178C6?style=for-the-badge&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Transflow](https://img.shields.io/badge/Transflow-00A8E8?style=for-the-badge&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
- ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad++&logoColor=black)
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" /> Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br>React</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /><br>Python</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br>TypeScript</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" /><br>C++</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=go" width="65" /><br>Go</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=html" width="65" /><br>HTML5</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="65" /><br>CSS3</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nextjs" width="65" /><br>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nodejs" width="65" /><br>Node.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=angular" width="65" /><br>Angular</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=express" width="65" /><br>Express.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=fastapi" width="65" /><br>FastAPI</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=flask" width="65" /><br>Flask</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" /><br>GraphQL</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" /><br>Nginx</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br>Tailwind CSS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redux" width="65" /><br>Redux</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="65" /><br>jQuery</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vite" width="65" /><br>Vite</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" width="65" /><br>Framer Motion</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postman" width="65" /><br>Postman</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=figma" width="65" /><br>Figma</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="65" /><br>REST APIs</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="65" /><br>Kafka</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=react" width="65" /><br>React Native</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=androidstudio" width="65" /><br>Android Studio</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br>AWS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=azure" width="65" /><br>Azure</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=firebase" width="65" /><br>Firebase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=supabase" width="65" /><br>Supabase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br>MongoDB</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br>PostgreSQL</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br>SQL</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
+   </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="65" /><br>GitHub</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vscode" width="65" /><br>VS Code</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=ubuntu" width="65" /><br>Ubuntu</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=powershell" width="65" /><br>PowerShell</td>
+  </tr>
+</table>
+
  
 
-## ⚙️ DevOps & Deployment Tools
-![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-![Koyeb](https://img.shields.io/badge/Koyeb-131313?style=for-the-badge&logo=koyeb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+## ⚙️ DevOps & Deployment
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br>AWS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=azure" width="65" /><br>Azure</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=firebase" width="65" /><br>Firebase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=heroku" width="65" /><br>Heroku</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br>Render</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/197904177-94c87178-1a41-40e1-b5e0-bc9c4f1a8e3d.png" width="65" /><br>Railway</td>
+    <td align="center" width="116"><img src="https://avatars.githubusercontent.com/u/74617465?s=200&v=4" width="65" /><br>Koyeb</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=replit" width="65" /><br>Replit</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="65" /><br>CI/CD</td>
+    <td align="center" width="116"><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="65" /><br>Jenkins</td>
+  </tr>
+</table>
 
 ---
 
@@ -152,7 +172,10 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 
 ---
 ## 📈 GitHub Activity Graph💹  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GavinRuff007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" />
+  </a>
 
 
 ---
