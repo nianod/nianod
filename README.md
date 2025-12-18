@@ -18,8 +18,6 @@
 
 - 🌱 Currently diving deep into AI-driven development🤖
 
-- 💞️ Open to collaborating on web projects, open-source contributions, and AI agent innovations
-
 - ⚡ Fun fact: I type so fast, my thoughts can barely keep up! ⚡
 
 - 🛠️ Advocate of clean code, problem-solving, and continuous learning
