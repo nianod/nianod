@@ -141,6 +141,7 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 
 
 ## ⚡ Contribution Streak  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&background=0D1117&ring=3b82f6&fire=60A5FA&stroke=1f2937&hide_border=true)
 
 
