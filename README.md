@@ -3,7 +3,6 @@
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+Am+Arnold;A+Backend+Developer;API+Architect;Welcome+to+my+profile;Ready+for+collaboration)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" /> <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;"> 🚀 Transforming Ideas into <span style="color:#00bcd4;">Robust Backend</span> 👑 </h1> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
