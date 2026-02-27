@@ -134,22 +134,28 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 </p>
 
 ---
-
 ## ✨Github stats
- [![ninanod's GitHub stats](https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/nianod)
 
+<div align="center">
 
-## ⚡ Contribution Streak  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nianod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+<a href="https://github.com/nianod">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nianod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
 
+<br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nianod&theme=radical&background=0D1117&ring=3b82f6&fire=60A5FA&stroke=1f2937&hide_border=true)
+## ⚡ Contribution Streak 
+<a href="https://github.com/nianod">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=nianod&theme=radical&hide_border=true&background=0d1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&border_radius=10" alt="GitHub Streak" />
+</a>
 
+<br />
 
 ## 🛠️ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianod&layout=compact&langs_count=11&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/nianod)
-
-
+<a href="https://github.com/nianod">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nianod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages" />
+</a>
+ 
 ---
 
 ## 🏆 GitHub Trophies
@@ -164,11 +170,9 @@ If you like what I build and want to fuel my next project, Hit this buy me coffe
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
 ## 📈 GitHub Activity Graph💹  
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" />
-  </a>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=nianod&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff87&line=00d9ff&point=7b2cbf&area=true&border_radius=10" alt="Contribution Graph" />
 
 
 ---
