@@ -12,7 +12,7 @@
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" /> <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;"> 🚀 Transforming Ideas into <span style="color:#00bcd4;">Robust Backend</span> 👑 </h1> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
-- 👀 Passionate about backend development, APIs, and system architecture, with a solid foundation in frontend technologies.
+- 👀 Passionate about backend development, DevOps Engineering, and system architecture, with a solid foundation in frontend technologies.
 
 - 🌱 Currently diving deep into AI-driven development and scalable backend systems 🤖
 
@@ -20,7 +20,7 @@
 
 - 🛠️ Advocate of clean code, problem-solving, and continuous learning
 
-- 🎯 Goal: To merge AI, cybersecurity, and backend development to build impactful, future-ready solutions
+- 🎯 Goal: To merge AI, DevOps, and backend development to build impactful, future-ready solutions
 
 ---
  
