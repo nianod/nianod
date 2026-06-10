@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
 If you like what I build and want to fuel my next project, Hit this buy me coffee button
 
 <p align="center">
-  <a href="https://buy-arnold-coffee.vercel.app" target="_blank">
+  <a href="https://pay-to-arnold.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
